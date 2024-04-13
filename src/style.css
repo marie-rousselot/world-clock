@@ -1,6 +1,9 @@
 body {
-  background-color: #f9f7fe;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/122/998/original/background_clock.jpeg?1713001034");
+  background-repeat: no-repeat;
+  background-size: 130%;
   font-family: sans-serif;
+  opacity: 0.8;
 }
 h1 {
   text-align: center;
@@ -54,8 +57,18 @@ city:last-child {
   line-height: 48px;
 }
 
+.footer {
+  max-width: 600px;
+  margin: 80px auto;
+  background-color: #ffffff;
+  padding: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+  background-color: #fffed2;
+}
+
 footer {
   text-align: center;
-  font-size: 18px;
-  color: rgba(0, 0, 0, 0.8);
+  font-size: 16px;
+  color: #111111;
 }
