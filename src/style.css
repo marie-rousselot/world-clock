@@ -2,12 +2,12 @@ body {
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/122/998/original/background_clock.jpeg?1713001034");
   background-repeat: no-repeat;
   background-size: 130%;
-  font-family: sans-serif;
+  font-family: "quattrocento-regular";
   opacity: 0.8;
 }
 h1 {
   text-align: center;
-  font-family: sans-serif;
+  font-family: "quattrocento-regular";
   font-size: 36px;
 }
 h2 {
@@ -17,6 +17,7 @@ h2 {
 
 select {
   display: block;
+  font-family: "quattrocento-regular";
   width: 100%;
   font-size: 18px;
   border-radius: 4px;
@@ -71,4 +72,5 @@ footer {
   text-align: center;
   font-size: 16px;
   color: #111111;
+  font-family: "quattrocento-regular";
 }
